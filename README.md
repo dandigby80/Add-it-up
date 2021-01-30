@@ -1,2 +1,2 @@
 # Add-it-up
-Very basic it adding app
+This a very basic beginner program testing out my javascript knowledge!
